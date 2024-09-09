@@ -10,7 +10,7 @@ const StoreData = [
     id: 2,
     name: "Berserk",
     price: 160,
-    img: "./public/resim/458589-Anime-Berserk-Phone-Wallpaper.jpg",
+    img: "./resim/458589-Anime-Berserk-Phone-Wallpaper.jpg",
     alt: "Berserk",
   },
   {
